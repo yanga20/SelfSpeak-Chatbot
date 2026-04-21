@@ -69,20 +69,17 @@
 
 ### **How to Run the Project**
 
-1. Open terminal and move to the project folder
+1. ####Open terminal and move to the project folder
 cd SelfSpeak-chatbot
    ---
-2. Install required libraries
+2. ####Install required libraries
 pip install -r requirements.txt
    ---
-3. Start the local AI model
+3. ####Start the local AI model
  ollama run phi
    ---
-4. ##### Run the chatbot
-
-##### &#x20;   python selfspeak.py
-
-### 
+4. #### Run the chatbot
+   #### python selfspeak.py
 
 ### **How to Use the Project**
 
