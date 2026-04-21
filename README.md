@@ -80,7 +80,7 @@ ollama run phi
    ---
 4. ##### Run the chatbot
 
-##### &#x20;        python selfspeak.py
+##### &#x20;   python selfspeak.py
 
 ### 
 
