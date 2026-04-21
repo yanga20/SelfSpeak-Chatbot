@@ -2,13 +2,12 @@ import requests
 import asyncio
 import edge_tts
 import os
-
-PROJECT_PASSWORD = "selfspeak123"
+from config import PASSWORD
 
 def authenticate():
     password = input("Enter project password: ")
 
-    if password != PROJECT_PASSWORD:
+    if password != PASSWORD:
         print("Access denied.")
         exit()
 
