@@ -8,8 +8,6 @@
 
 ##### SelfSpeak Chatbot is a secure AI voice chatbot that generates intelligent answers using a Large Language Model and converts those answers into speech.
 
-##### 
-
 ##### The project allows users to interact with AI in a more natural voice-based way instead of only reading text responses.
 
 
@@ -72,13 +70,13 @@
 ### **How to Run the Project**
 
 1. Open terminal and move to the project folder
-     cd SelfSpeak-chatbot
+cd SelfSpeak-chatbot
    ---
 2. Install required libraries
-     pip install -r requirements.txt
+pip install -r requirements.txt
    ---
 3. Start the local AI model
-     ollama run phi
+ollama run phi
    ---
 4. ##### Run the chatbot
 
@@ -94,7 +92,7 @@
 
 ##### 2\. Enter the project password
 
-##### 3\. A personal voice sample is played at startup 
+##### 3\. A personal voice sample is played at startup
 
 ##### 4\. Type your question
 
@@ -104,15 +102,7 @@
 
 ##### 
 
-##### Type:
-
-##### 
-
-##### exit
-
-##### 
-
-##### to close the chatbot.
+##### Type: exit to close the chatbot.
 
 
 
@@ -159,8 +149,4 @@
 ##### \* Cloud deployment
 
 ##### \* Stronger security
-
-
-
-
 
