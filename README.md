@@ -76,7 +76,7 @@ cd SelfSpeak-chatbot
 pip install -r requirements.txt
    ---
 3. Start the local AI model
-ollama run phi
+ ollama run phi
    ---
 4. ##### Run the chatbot
 
